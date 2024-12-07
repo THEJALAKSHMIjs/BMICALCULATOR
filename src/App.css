@@ -1,0 +1,35 @@
+body{
+    overflow-x: hidden;
+    background-color: black;
+    
+  }
+  
+  .main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .sub{
+    background-color: white;
+    width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+   
+  }
+  form{
+    margin-top: 15px;
+  }
+  .sub h1{
+    font-size: 35px;
+  }
+  .result{
+    width: 50%;
+    height: 50%;
+    
+    background-color: rgba(124, 238, 253, 0.555);
+    margin-left: 80px;
+  
+  }
